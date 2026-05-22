@@ -1,7 +1,4 @@
 addappid(2399830)
-addappid(2881150)
-addappid(3571730)
-addappid(3720100)
 addappid(3720200)
 addappid(3982300)
 addappid(2399831,0,"320e0bcc46f1e7d88e18488c73990878eedbc06c3284015e1d0af97abe143e23")
