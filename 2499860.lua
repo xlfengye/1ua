@@ -1,0 +1,5 @@
+-- Generated for AppID 2499860 (branch: public)
+-- Mode: Fixed (with setManifestid)
+addappid(2499860)
+addappid(2499861, 0, "78d85bb7957e80d4fac0655a65ff9bee61dafc06c753de2713726e9860d6a860")
+setManifestid(2499861, "3434241301911522834")
