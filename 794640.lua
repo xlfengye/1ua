@@ -1,6 +1,3 @@
 addappid(794640)
-addappid(794641)
-addappid(794642,0,"bceb65027262ffebefbdaf27eea23264ebe4b9f4c6e503fa5b043cac6a4aa21c")
-setManifestid(794642,"3853947949613981547")
-addappid(794643)
-addappid(794644)
+addappid(794641, 0, "36ab7f1b096a77a384268e8f6bdf3d90ca02d327db94a723a8f3c8c8f3e57491")
+addappid(794642, 0, "bceb65027262ffebefbdaf27eea23264ebe4b9f4c6e503fa5b043cac6a4aa21c")
