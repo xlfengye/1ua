@@ -1,18 +1,17 @@
--- ============================================================
--- 官方网站: https://steamforge.hyper99.top/
--- 联系 QQ: 2476083228
--- 入库时间: 2026-05-23 00:08:28
--- 游戏 AppID: 3321460
--- ============================================================
+addappid(3764200, 0, "d29b7ad461b8b74dce38b7137fc00d4b5a885c5be1211767a4ecae0eaf8ddd96")
+addappid(3764201, 0, "bdf443ffde6449192b9863c0fa5e3cda31fdaa5e4d33e5bcded62dc2085b7cb8")
+setManifestid(3764201, "2990234554016452841")
+addappid(3764202, 0, "3b6b7669a064598e8f48e38776d1862941f78d515a88b89333c2dbde0a07fcff")
+setManifestid(3764202, "1782915813675562857")
+addappid(3764203, 0, "b2e820287e6e3f32d1ccb3f2f8c95ec3783e8c0a75abab5d311a0a648626fd92")
+setManifestid(3764203, "1507402407513694495")
+addappid(3990800, 0, "f5bf116706491176c9eee46a96fe1faa70b3f771d75ccb34f0c8962097a907e5")
+setManifestid(3990800, "9181787779883827112")
+addappid(3990820, 0, "9ae4713cb4114effdd34d1cd54dbda8a560f27a05aef06fbaa0370748f69d15c")
+setManifestid(3990820, "509708311968316285")
+addappid(3764205, 1, "25a058f4301da5d231a8e5ccdd648c2fbc5aa686cd4669012901b5f90e4ff1cb")
+setManifestid(3764205, "4436866528626191669")
+addappid(3764206, 1, "960c01ef80e38e1993ada744b48c5dd59eabf9de2726f222d579ad5c4160b10e")
+setManifestid(3764206, "136565968785594279")
 
--- Generated for AppID 3321460 (branch: public)
--- Mode: Auto-update (no setManifestid)
-addappid(3321460)
-addappid(3321461, 0, "e2e570c84eb8b4cfe9c20268cd30b84f8c1c7c076691c92ae8c5ba7b510b8a95")
-addappid(3321462, 0, "6eb3bfe7d16b9eb6441dba4f7d18b341fe83ab2f1e9385d042ce622f38a600cb")
-setManifestid(3321461,"8432047928063861989")
 
--- DLCs
-addappid(4024620)
-addappid(4024630)
-addappid(4193060)
