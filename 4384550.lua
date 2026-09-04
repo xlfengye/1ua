@@ -1,12 +1,6 @@
--- Generated with Luie @ https://lua.tools/
--- 4384550 - Call of Duty®: Black Ops 6
--- Generated 2026-09-04 11:23:37 UTC
--- # Depots (Total/DLC/Shared): 60/39/1
-
--- Main AppID
 addappid(4384550)
 
--- Main Depots
+
 addappid(4384552, 1, "4aab6e16f371b0758377dd9491551c79f642aa9a2f7369347a383165050afe38")
 setManifestid(4384552, "6744977334676121441", 73357616710)
 addappid(4384553, 1, "dbb196c1e6bddfb88781ee6aad994d9e2b1789f4c3efeb7bbb17de58f86a1d89")
@@ -48,8 +42,6 @@ setManifestid(4384872, "7459300581723859895", 41717532)
 addappid(4384873, 1, "edf1b28520dd85710bea247530f50f2e1344ee113cc49545994081bc02a83299")
 setManifestid(4384873, "3569122320325227566", 34927928)
 
--- DLC's (with depot keys)
--- Call of Duty®: Black Ops 6 - Campaign (AppID: 4384860)
 addappid(4384860)
 addappid(4384860, 1, "30e46a96d127f72a0603355e768206b3bc1f0f108a6880b80884b39d21d2ec5c")
 setManifestid(4384860, "4493660605489649994", 38726805301)
