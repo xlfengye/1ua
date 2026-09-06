@@ -6,5 +6,6 @@ setManifestid(993091, "2549887697121492489", 183809856)
 addappid(993092, 1, "7f42c4f024fecc789a821093226e8655818e4f981c698ff5f5bba81abe4edda3")
 setManifestid(993092, "3384896674095978390", 181724992)
 
+-- Shared Depots (Runtimes / Launchers / ETC)
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- (windows)
 addappid(229007, 1, "eba9fa9ff4f811929c119074450f49f739113bcae9317ded9bea262aa21ec58d") -- (windows)
