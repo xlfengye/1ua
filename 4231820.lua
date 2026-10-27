@@ -1,0 +1,19 @@
+
+addappid(4231820, 1, "da364a76b1067c096373223db4e1df6013f949a3bd4f322fe77dc678fead95f3")
+
+-- Main Depots
+addappid(4231821, 1, "b818e4c603d272e5c06a132f10ba31757a7f71a980a51625329d35ce620fb0e4") -- (windows)
+setManifestid(4231821, "8796979530797619124", 6284848119)
+
+-- DLC's (no depot keys required)
+addappid(4708530) -- Castlevania: Belmont's Curse Alucard Style Costume
+addappid(4708550) -- Castlevania: Belmont's Curse Bonus Contents Pack
+
+-- DLC's (with depot keys)
+-- Castlevania: Belmont's Curse Digital Sound & Art Gallery (AppID: 4740130)
+addappid(4740130)
+addappid(4740130, 1, "8c5d625861d3f720927a630a2e7477ad5175390ef32b75b000bb0fdba0a20af9") -- (windows, 64-bit)
+setManifestid(4740130, "7188009525124262301", 1816424755)
+
+-- Shared Depots (Runtimes / Launchers / ETC)
+addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- (windows)
