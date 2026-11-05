@@ -1,9 +1,7 @@
+addappid(4115450, 1, "297a54d1db20c2d1e2c932dcf8c49f16933eec12e1dc20c8efb1d378c858e4c8")
 
-addappid(4115450)
-
--- Main Depots
 addappid(4115451, 1, "44675a1e5068ae834e14eea59fc351cd0323eab43481ca5799d9720fd157a105")
-setManifestid(4115451, "7450216563795868763", 150884679876)
+setManifestid(4115451, "3746360227235602232")
 
 -- DLC's (no depot keys required)
 addappid(5041150) -- Phantom Blade Zero Deluxe Edition Upgrade
