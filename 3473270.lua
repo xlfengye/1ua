@@ -1,0 +1,13 @@
+addappid(3473270) -- Our campus life
+-- MAIN APP DEPOTS
+addappid(3473271, 1, "6849ae0f86d5269af7302cc8033254ab8e1cdfb6ee26e6bb7961efe0da89ecc8") -- Depot 3473271
+setManifestid(3473271, "495035664864916014", 1986315935)
+addappid(3473272, 1, "d1ec2ad1913b6dcc02d9ab029e55f4f096d46947084ad7c9d47809d2eb9e8183") -- Depot 3473272
+setManifestid(3473272, "1851506616312069870", 2103312039)
+-- SHARED DEPOTS (from other apps)
+addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") -- VC 2019 Redist (Shared from App 228980)
+setManifestid(228988, "6645201662696499616", 29212173)
+addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- VC 2022 Redist (Shared from App 228980)
+setManifestid(228989, "5753583882400741046", 25674515)
+addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- DirectX Jun 2010 Redist (Shared from App 228980)
+setManifestid(228990, "1829726630299308803", 102931551)
