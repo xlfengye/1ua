@@ -1,0 +1,2 @@
+addappid(770010)
+addappid(770011, 0, "23c1aa198c227f70121f5d1883bafe6e38b036e1ac43372ef5c23ae327cf2dba")
